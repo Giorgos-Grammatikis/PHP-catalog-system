@@ -1,0 +1,11 @@
+# OS Generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Backup ή προσωρινά αρχεία
+*.log
+*.tmp
